@@ -1,0 +1,1679 @@
+{
+    "nodes": [
+        {
+            "name": "贾宝玉",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "林黛玉",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "薛宝钗",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾敏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾元春",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾珠",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "李纨",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "王夫人",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "袭人",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "晴雯",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "麝月",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "秋纹",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "檀云",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "坠儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "碧痕",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "茜雪",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "媚人",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "绮霰",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "四儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "良儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "茗烟",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "墨雨",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "引泉",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "挑云",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "双瑞",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "扫红",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "锄药",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "扫花",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "伴鹤",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "双寿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾迎春",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "王熙凤",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾政",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "探春",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾兰",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "王子腾",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "薛母系亲属",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾琏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾琮",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "薛蟠",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "香菱",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "宝蟾",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "夏金桂",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾母",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾代善",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "史湘云",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "林如海",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "紫鹃",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "雪雁",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "春纤",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾赦",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "嫣红",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "赵姨娘",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "周姨娘",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "孙绍祖",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾探春",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾环",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾代化",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾源",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾敬",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾敷",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "兴儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "丰儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "旺儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "庆儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "彩明",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "平儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "小红",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾巧姐",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "王仁",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "刘姥姥",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "王公",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "鸳鸯",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "琥珀",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "珍珠",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "靛儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "玻璃",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "翡翠",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "傻大姐",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "史侯",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "尤二姐",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "秋桐",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "邢夫人",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "周瑞家的",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "彩霞",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "彩云",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "绣凤",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "金钏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "玉钏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "秀鸾",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾琮之母",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾迎春母",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "娇红",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "鲍二",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "甄士隐",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "臻儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "薛蝌",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "邢岫烟",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "薛宝琴",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "薛公",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "莺儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "文杏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "卫若兰",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "翠缕",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "王狗儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "板儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "青儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾珍",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾演",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "尤氏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "佩凤",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "偕鸳",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾蓉",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "喜儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "寿儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "贾惜春",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "入画",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "彩屏",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "彩儿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "秦可卿",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "蕊珠",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "宝珠",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "秦业",
+            "symbolSize": 10,
+            "Category": 0
+        },
+        {
+            "name": "秦钟",
+            "symbolSize": 10,
+            "Category": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "贾宝玉",
+            "target": "林黛玉",
+            "type": "堂亲"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "薛宝钗",
+            "type": "表亲"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾敏",
+            "type": "父系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾元春",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾珠",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "李纨",
+            "type": "父系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "王夫人",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "袭人",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "晴雯",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "麝月",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "秋纹",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "檀云",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "坠儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "碧痕",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "茜雪",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "媚人",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "绮霰",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "四儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "良儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "茗烟",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "墨雨",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "引泉",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "挑云",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "双瑞",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "扫红",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "锄药",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "扫花",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "伴鹤",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "双寿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾迎春",
+            "type": "堂姐"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "王熙凤",
+            "type": "父系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾政",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "探春",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾兰",
+            "type": "母系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "王子腾",
+            "type": "母系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "薛母系亲属",
+            "type": "母系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾琏",
+            "type": "堂亲"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾琮",
+            "type": "堂亲"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "薛蟠",
+            "type": "表亲"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "香菱",
+            "type": "父系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "宝蟾",
+            "type": "父系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "夏金桂",
+            "type": "父系亲属"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾母",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "贾代善",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾宝玉",
+            "target": "史湘云",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "林如海",
+            "type": "直系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "紫鹃",
+            "type": "主仆"
+        },
+        {
+            "source": "林黛玉",
+            "target": "雪雁",
+            "type": "主仆"
+        },
+        {
+            "source": "林黛玉",
+            "target": "春纤",
+            "type": "主仆"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾敏",
+            "type": "直系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾母",
+            "type": "祖孙"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾代善",
+            "type": "祖孙"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾政",
+            "type": "母系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾赦",
+            "type": "母系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "嫣红",
+            "type": "母系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "王夫人",
+            "type": "母系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "赵姨娘",
+            "type": "母系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "周姨娘",
+            "type": "母系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾琮",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾迎春",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾琏",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "王熙凤",
+            "type": "父系亲属"
+        },
+        {
+            "source": "林黛玉",
+            "target": "孙绍祖",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾元春",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾探春",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾迎春",
+            "type": "表亲"
+        },
+        {
+            "source": "林黛玉",
+            "target": "贾环",
+            "type": "表亲"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾母",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾政",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾赦",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾敏",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾代化",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾源",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾敬",
+            "type": "母系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾敷",
+            "type": "母系亲属"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾珠",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾琮",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾琏",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾环",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾探春",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾元春",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代善",
+            "target": "贾迎春",
+            "type": "祖孙"
+        },
+        {
+            "source": "王熙凤",
+            "target": "兴儿",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "丰儿",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "旺儿",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "庆儿",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "彩明",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "平儿",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "小红",
+            "type": "主仆"
+        },
+        {
+            "source": "王熙凤",
+            "target": "贾巧姐",
+            "type": "直系亲属"
+        },
+        {
+            "source": "王熙凤",
+            "target": "贾琏",
+            "type": "夫妻"
+        },
+        {
+            "source": "王熙凤",
+            "target": "王仁",
+            "type": "直系亲属"
+        },
+        {
+            "source": "王熙凤",
+            "target": "王夫人",
+            "type": "父系亲属"
+        },
+        {
+            "source": "王熙凤",
+            "target": "薛母系亲属",
+            "type": "父系亲属"
+        },
+        {
+            "source": "王熙凤",
+            "target": "王子腾",
+            "type": "父系亲属"
+        },
+        {
+            "source": "王熙凤",
+            "target": "刘姥姥",
+            "type": "宗亲"
+        },
+        {
+            "source": "王熙凤",
+            "target": "薛蟠",
+            "type": "堂亲"
+        },
+        {
+            "source": "王熙凤",
+            "target": "薛宝钗",
+            "type": "堂亲"
+        },
+        {
+            "source": "王熙凤",
+            "target": "王公",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "鸳鸯",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "琥珀",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "珍珠",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "靛儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "玻璃",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "翡翠",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "傻大姐",
+            "type": "主仆"
+        },
+        {
+            "source": "贾母",
+            "target": "贾敏",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾母",
+            "target": "贾政",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾母",
+            "target": "贾赦",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾母",
+            "target": "史侯",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾母",
+            "target": "林黛玉",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾宝玉",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾元春",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾珠",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾迎春",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾环",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾探春",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾琮",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "贾琏",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾母",
+            "target": "王熙凤",
+            "type": "孙媳"
+        },
+        {
+            "source": "贾母",
+            "target": "李纨",
+            "type": "孙媳"
+        },
+        {
+            "source": "贾母",
+            "target": "尤二姐",
+            "type": "孙媳"
+        },
+        {
+            "source": "贾母",
+            "target": "秋桐",
+            "type": "孙媳"
+        },
+        {
+            "source": "贾母",
+            "target": "平儿",
+            "type": "孙媳"
+        },
+        {
+            "source": "贾母",
+            "target": "周姨娘",
+            "type": "婆媳"
+        },
+        {
+            "source": "贾母",
+            "target": "王夫人",
+            "type": "婆媳"
+        },
+        {
+            "source": "贾母",
+            "target": "赵姨娘",
+            "type": "婆媳"
+        },
+        {
+            "source": "贾母",
+            "target": "嫣红",
+            "type": "婆媳"
+        },
+        {
+            "source": "贾母",
+            "target": "邢夫人",
+            "type": "婆媳"
+        },
+        {
+            "source": "王夫人",
+            "target": "贾元春",
+            "type": "直系亲属"
+        },
+        {
+            "source": "王夫人",
+            "target": "贾宝玉",
+            "type": "直系亲属"
+        },
+        {
+            "source": "王夫人",
+            "target": "贾珠",
+            "type": "直系亲属"
+        },
+        {
+            "source": "王夫人",
+            "target": "周瑞家的",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "彩霞",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "彩云",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "绣凤",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "金钏",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "玉钏",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "秀鸾",
+            "type": "主仆"
+        },
+        {
+            "source": "王夫人",
+            "target": "贾政",
+            "type": "夫妻"
+        },
+        {
+            "source": "王夫人",
+            "target": "李纨",
+            "type": "婆媳"
+        },
+        {
+            "source": "王夫人",
+            "target": "贾兰",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾政",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾敏",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾琮之母",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾迎春母",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾赦",
+            "target": "嫣红",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾赦",
+            "target": "邢夫人",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾琏",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾琮",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾赦",
+            "target": "贾迎春",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾赦",
+            "target": "秋桐",
+            "type": "主仆"
+        },
+        {
+            "source": "贾赦",
+            "target": "娇红",
+            "type": "主仆"
+        },
+        {
+            "source": "贾琏",
+            "target": "平儿",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾琏",
+            "target": "秋桐",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾琏",
+            "target": "尤二姐",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾琏",
+            "target": "鲍二",
+            "type": "主仆"
+        },
+        {
+            "source": "贾琏",
+            "target": "贾巧姐",
+            "type": "直系亲属"
+        },
+        {
+            "source": "香菱",
+            "target": "甄士隐",
+            "type": "直系亲属"
+        },
+        {
+            "source": "香菱",
+            "target": "薛蟠",
+            "type": "夫妻"
+        },
+        {
+            "source": "香菱",
+            "target": "臻儿",
+            "type": "主仆"
+        },
+        {
+            "source": "香菱",
+            "target": "薛宝钗",
+            "type": "父系亲属"
+        },
+        {
+            "source": "薛蝌",
+            "target": "邢岫烟",
+            "type": "夫妻"
+        },
+        {
+            "source": "薛蝌",
+            "target": "薛宝琴",
+            "type": "直系亲属"
+        },
+        {
+            "source": "薛蝌",
+            "target": "薛公",
+            "type": "祖孙"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "薛公",
+            "type": "祖孙"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "薛蟠",
+            "type": "直系亲属"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "薛母系亲属",
+            "type": "直系亲属"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "王公",
+            "type": "祖孙"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "薛公",
+            "type": "祖孙"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "薛蝌",
+            "type": "堂亲"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "薛宝琴",
+            "type": "堂亲"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "莺儿",
+            "type": "主仆"
+        },
+        {
+            "source": "薛宝钗",
+            "target": "文杏",
+            "type": "主仆"
+        },
+        {
+            "source": "史湘云",
+            "target": "卫若兰",
+            "type": "夫妻"
+        },
+        {
+            "source": "史湘云",
+            "target": "史侯",
+            "type": "祖孙"
+        },
+        {
+            "source": "史湘云",
+            "target": "翠缕",
+            "type": "主仆"
+        },
+        {
+            "source": "刘姥姥",
+            "target": "王狗儿",
+            "type": "直系亲属"
+        },
+        {
+            "source": "刘姥姥",
+            "target": "板儿",
+            "type": "祖孙"
+        },
+        {
+            "source": "刘姥姥",
+            "target": "青儿",
+            "type": "祖孙"
+        },
+        {
+            "source": "刘姥姥",
+            "target": "贾巧姐",
+            "type": "孙媳"
+        },
+        {
+            "source": "板儿",
+            "target": "贾巧姐",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾代化",
+            "target": "贾敬",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代化",
+            "target": "贾敷",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾代化",
+            "target": "贾珍",
+            "type": "祖孙"
+        },
+        {
+            "source": "贾代化",
+            "target": "贾演",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾珍",
+            "target": "尤氏",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾珍",
+            "target": "佩凤",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾珍",
+            "target": "偕鸳",
+            "type": "夫妻"
+        },
+        {
+            "source": "贾珍",
+            "target": "贾蓉",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾珍",
+            "target": "喜儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾珍",
+            "target": "寿儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾珍",
+            "target": "贾惜春",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾惜春",
+            "target": "入画",
+            "type": "主仆"
+        },
+        {
+            "source": "贾惜春",
+            "target": "彩屏",
+            "type": "主仆"
+        },
+        {
+            "source": "贾惜春",
+            "target": "彩儿",
+            "type": "主仆"
+        },
+        {
+            "source": "贾敬",
+            "target": "贾珍",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾敬",
+            "target": "贾惜春",
+            "type": "直系亲属"
+        },
+        {
+            "source": "贾蓉",
+            "target": "秦可卿",
+            "type": "夫妻"
+        },
+        {
+            "source": "秦可卿",
+            "target": "蕊珠",
+            "type": "主仆"
+        },
+        {
+            "source": "秦可卿",
+            "target": "宝珠",
+            "type": "主仆"
+        },
+        {
+            "source": "秦可卿",
+            "target": "秦业",
+            "type": "直系亲属"
+        },
+        {
+            "source": "秦可卿",
+            "target": "秦钟",
+            "type": "直系亲属"
+        }
+    ],
+    "categories": [
+        {
+            "name": "堂亲"
+        },
+        {
+            "name": "表亲"
+        },
+        {
+            "name": "父系亲属"
+        },
+        {
+            "name": "直系亲属"
+        },
+        {
+            "name": "主仆"
+        },
+        {
+            "name": "堂姐"
+        },
+        {
+            "name": "母系亲属"
+        },
+        {
+            "name": "祖孙"
+        },
+        {
+            "name": "夫妻"
+        },
+        {
+            "name": "宗亲"
+        },
+        {
+            "name": "孙媳"
+        },
+        {
+            "name": "婆媳"
+        }
+    ]
+}
